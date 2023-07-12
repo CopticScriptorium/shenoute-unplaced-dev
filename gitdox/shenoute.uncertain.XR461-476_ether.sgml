@@ -11121,9 +11121,9 @@
 </norm>
 </orig>
 <orig orig="ⲭⲣⲏⲥⲧⲟⲥ">
-<norm norm="ⲭⲣⲏⲥⲧⲟⲥ">
-<lemma lemma="ⲭⲣⲏⲥⲧⲟⲥ">
-<pos pos="N">
+<norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
+<lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
+<pos pos="NPROP">
 <lang lang="Greek">
 ⲭⲣⲏⲥⲧⲟⲥ
 </lang>
@@ -12557,11 +12557,11 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϣϭⲙϭⲟⲙ">
-<norm_group norm_group="ⲉϣϭⲙϭⲟⲙ">
-<orig orig="ⲉϣ">
+<norm_group norm_group="ϣϭⲙϭⲟⲙ">
+<orig orig="ϣ">
 <norm norm="ⲉϣ">
-<lemma lemma="ⲉϣ">
-<pos pos="NEG">
+<lemma lemma="ϣ">
+<pos pos="V">
 ⲉϣ
 </pos>
 </lemma>
