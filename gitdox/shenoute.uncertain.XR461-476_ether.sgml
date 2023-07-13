@@ -17610,8 +17610,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲓⲥ">
-<norm_group norm_group="ⲉⲓⲥ">
+<orig_group orig_group="ⲉⲓⲥϩⲏⲏⲛⲉ">
+<norm_group norm_group="ⲉⲓⲥϩⲏⲏⲛⲉ">
 <orig orig="ⲉⲓⲥ">
 <norm norm="ⲉⲓⲥ">
 <lemma lemma="ⲉⲓⲥ">
@@ -17621,14 +17621,10 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ϩⲏⲏⲛⲉ">
-<norm_group norm_group="ϩⲏⲏⲛⲉ">
 <orig orig="ϩⲏⲏⲛⲉ">
 <norm norm="ϩⲏⲏⲛⲉ">
 <lemma lemma="ϩⲏⲏⲛⲉ">
-<pos pos="NPROP">
+<pos pos="PTC">
 ϩⲏⲏⲛⲉ
 </pos>
 </lemma>
